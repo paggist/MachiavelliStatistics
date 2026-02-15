@@ -4,6 +4,7 @@
 Created on Wed Nov 13 13:46:50 2024
 
 @author: spaggi
+and kudos to Casey Duckering
 """
 
 import sys
